@@ -1,0 +1,42 @@
+.home {
+  height: 100vh;
+  padding: 15px;
+  background-color: #07080c;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.image {
+  background-size: cover;
+  height: 50vh;
+}
+
+.para {
+  color: #94a3b8;
+  font-family: 'Roboto';
+}
+
+.accelerate-btn {
+  background-color: #0b69ff;
+  font-family: 'Roboto';
+  border: none;
+  border-radius: 10px;
+  padding: 15px;
+  margin-right: 15px;
+  color: #ffffff;
+}
+
+.apply-brakes {
+  color: #cbd5e1;
+  background-color: transparent;
+  border-color: #cbd5e1;
+  font-family: 'Roboto';
+  padding: 15px;
+}
